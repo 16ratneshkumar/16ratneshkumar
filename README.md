@@ -7,7 +7,7 @@
 
 ### 🚀 *About Me:*
 
-I am a 2nd-year undergraduate student passionate about *Embedded Systems* and *Hardware-Software Integration*. My journey in tech involves working with various microcontrollers, exploring real-time operating systems, and building innovative IoT projects.
+I am a 3rd-year undergraduate student passionate about *Embedded Systems* and *Hardware-Software Integration*. My journey in tech involves working with various microcontrollers, exploring real-time operating systems, and building innovative IoT projects.
 
 - 🎓 *Education:* Bachelor of Computer Science (Ramanujan College) 
 - 🌱 *Currently Learning:* RTOS, Advanced C++, and Rust
